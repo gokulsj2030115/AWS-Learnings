@@ -18,12 +18,6 @@ This project demonstrates a secure AWS VPC setup with **public and private subne
 
 ---
 
-## 📊 Architecture Diagram
-
-![Architecture](architecture-diagram.png)
-
----
-
 ## 🔄 Traffic Flow
 
 * Public: Internet → IGW → EC2
