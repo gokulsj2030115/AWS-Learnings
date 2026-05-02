@@ -1,4 +1,4 @@
-![Architecture](architecture-diagram.png)
+![Architecture](images/architecture-diagram.png)
 
 # 🚀 AWS 2-Tier Architecture Lab (EC2 + RDS)
 
@@ -47,59 +47,59 @@ Private resources → NAT Gateway → Internet
 
 ### 🏗️ VPC
 
-![VPC](screenshots/vpc-1.png)
+![VPC](images/vpc-1.png)
 
 ---
 
 ### 🌐 Subnets
 
 **Public Subnet**
-![Public Subnet](screenshots/public-subnet.png)
+![Public Subnet](images/public-subnet.png)
 
 **Private Subnet**
-![Private Subnet](screenshots/private-subnet.png)
+![Private Subnet](images/private-subnet.png)
 
 ---
 
 ### 🚪 Internet Gateway
 
-![IGW](screenshots/igw.png)
+![IGW](images/igw.png)
 
 ---
 
 ### 🔁 NAT Gateway
 
-![NAT](screenshots/nat-gtw.png)
+![NAT](images/nat-gtw.png)
 
 ---
 
 ### 🧭 Route Tables
 
 **Public Route Table**
-![Public RT](screenshots/public-rt.png)
+![Public RT](images/public-rt.png)
 
 **Private Route Table**
-![Private RT](screenshots/private-rt.png)
+![Private RT](images/private-rt.png)
 
 ---
 
 ### 🖥️ Compute & Database
 
 **EC2 Instance (Application Layer)**
-![EC2](screenshots/ec2.png)
+![EC2](images/ec2.png)
 
 **RDS MySQL (Database Layer)**
-![RDS](screenshots/rds_db.png)
+![RDS](images/rds_db.png)
 
 ---
 
 ### 🔐 Security Groups
 
 **Public Security Group (EC2)**
-![Public SG](screenshots/public-SG.png)
+![Public SG](images/public-SG.png)
 
 **Private Security Group (RDS)**
-![Private SG](screenshots/private-SG.png)
+![Private SG](images/private-SG.png)
 
 ---
 
