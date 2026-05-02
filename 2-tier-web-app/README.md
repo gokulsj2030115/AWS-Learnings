@@ -71,15 +71,6 @@ Private resources → NAT Gateway → Internet
 
 ![NAT](images/nat-gtw.png)
 
----
-
-### 🧭 Route Tables
-
-**Public Route Table**
-![Public RT](images/public-rt.png)
-
-**Private Route Table**
-![Private RT](images/private-rt.png)
 
 ---
 
