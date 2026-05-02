@@ -54,10 +54,10 @@ Private resources → NAT Gateway → Internet
 ### 🌐 Subnets
 
 **Public Subnet**
-![Public Subnet](images/public-subnet.png)
+![Public Subnet](images/public-SG.png)
 
 **Private Subnet**
-![Private Subnet](images/private-subnet.png)
+![Private Subnet](images/private-SG.png)
 
 ---
 
